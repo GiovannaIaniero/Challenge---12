@@ -13,6 +13,6 @@ else if (edad >= 18 && edad <= 70) {
 } else if (edad > 70) {
     document.writeln('El voto es optativo')
 }
-else if (edad <16){
+else if (edad < 16) {
     document.writeln('No puede votar')
 }
